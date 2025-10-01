@@ -13,7 +13,11 @@
 # 💫 About Me:
 Hello! 👋 I am a .NET Full Stack Developer with a passion for building robust and scalable applications. My expertise lies in working with .NET Core API, Angular, and .NET Core MVC Projects. I enjoy developing end-to-end solutions that not only solve problems but also enhance the user experience.
 
+🚀 Recent Project:
+My last completed project was a full-stack tech-based job platform, where I developed both the front-end and back-end to create a seamless user experience for job seekers and employers.
 
+📚 Background:
+I studied Physics, which has provided me with a strong analytical mindset and problem-solving skills. Additionally, I completed a comprehensive .NET Development course as part of the IsDB BISEW IT Scholarship program, which helped me transition into software development.
 
 
 # 💻 Tech Stack:
