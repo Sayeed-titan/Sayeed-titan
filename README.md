@@ -1,4 +1,3 @@
-markdown
 <h1 align="center">Hi 👋, I'm Kazi Abu Sayeed</h1>
 <h3 align="center">A passionate full stack developer from Dhaka, Bangladesh</h3>
 
