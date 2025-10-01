@@ -11,7 +11,7 @@
 ###
 
 # 💫 About Me:
-I am .NET Full stack developer, working a full stack tech-based job portal with .NET Core API and Angular. 
+Hello! 👋 I am a .NET Full Stack Developer with a passion for building robust and scalable applications. My expertise lies in working with .NET Core API, Angular, and .NET Core MVC Projects. I enjoy developing end-to-end solutions that not only solve problems but also enhance the user experience.
 
 
 
