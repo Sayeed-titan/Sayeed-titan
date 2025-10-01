@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 # 💫 About Me:
 I am .NET Full stack developer, working a full stack tech-based job portal with .NET Core API and Angular. 
 
