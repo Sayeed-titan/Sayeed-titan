@@ -2,32 +2,59 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Kazi Abu Sayeed</h1>
+<h3 align="center">.NET Full Stack Developer | Angular · ASP.NET Core · SQL</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-abu-sayeed29) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sayeedtitan.coding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaziabu.sayeed29@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/kazi-abu-sayeed29"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@sayeedtitan.coding"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:kaziabu.sayeed29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
+## 💫 About Me
 
-###
+I'm a .NET Full Stack Developer building end-to-end web applications with **ASP.NET Core, Angular/React, and relational databases** (SQL Server, PostgreSQL, MySQL, Oracle). I like taking a project from data model to deployed UI — clean architecture on the backend, usable interfaces on the front.
 
-# 💫 About Me:
-Hello! 👋 I am a .NET Full Stack Developer with a passion for building robust and scalable applications. My expertise lies in working with .NET Core API, Angular, and .NET Core MVC Projects. I enjoy developing end-to-end solutions that not only solve problems but also enhance the user experience.
+- 🏥 **Domain focus:** ERP, healthcare, and job-platform systems — inventory, HR, patient care, and hiring workflows.
+- 📚 **Background:** Physics graduate, then transitioned into software through the IsDB-BISEW IT Scholarship .NET Development program — the analytical grounding shows up in how I approach data modeling and debugging.
+- 🚀 **Currently:** Shipping small full-stack tools and ERP prototypes, and writing SQL-heavy data analysis case studies (healthcare billing, hospital operations, e-commerce, HR attrition).
+- 🌱 **Exploring:** Clean Architecture patterns reusable across ADO.NET / MVC / Web API / .NET Core / MAUI, and design-system driven UI work.
 
-🚀 Recent Project:
-My last completed project was a full-stack tech-based job platform, where I developed both the front-end and back-end to create a seamless user experience for job seekers and employers.
+## 🚀 Featured Projects
 
-📚 Background:
-I studied Physics, which has provided me with a strong analytical mindset and problem-solving skills. Additionally, I completed a comprehensive .NET Development course as part of the IsDB BISEW IT Scholarship program, which helped me transition into software development.
+| Project | Description |
+|---|---|
+| [**Pharma-Inventory-Management-System**](https://github.com/Sayeed-titan/Pharma-Inventory-Management-System) | .NET 8 + Oracle drug inventory & expiry tracker with batch alerts for pharma stock. |
+| [**MediCore-Hospital-ERP-System**](https://github.com/Sayeed-titan/MediCore-Hospital-ERP-System) | Full-stack Hospital ERP built with ASP.NET Core, React, and PostgreSQL. |
+| [**TechJobs-App-MultiPlatform-MultiUI**](https://github.com/Sayeed-titan/TechJobs-App-MultiPlatform-MultiUI) | Full-stack job portal (ASP.NET Core Web API + Angular) with role-based auth and real-time messaging. |
+| [**techblog-clean-architecture**](https://github.com/Sayeed-titan/techblog-clean-architecture) | Clean Architecture blog platform — ASP.NET Core, EF Core, React + TypeScript, cloud deployed. |
+| [**Master-Details-CRUD-Pattern-for-.NET-Technologies**](https://github.com/Sayeed-titan/Master-Details-CRUD-Pattern-for-.NET-Technologies) | Reusable Master-Details CRUD pattern implemented across ADO.NET, MVC, Web API, Core, and MAUI. |
+| [**dream-project-hub**](https://github.com/Sayeed-titan/dream-project-hub) | Personal idea capture, project tracker, and goal system — from spark to shipped product. |
+| [**flake_analyzer**](https://github.com/Sayeed-titan/flake_analyzer) | PyQt5 desktop app that detects 2D-material flakes and estimates layer count from optical microscopy — a nod to my Physics roots. |
+| [**BrowserGate**](https://github.com/Sayeed-titan/BrowserGate) | Locks Edge/Chrome behind a master password while keeping sessions logged in. |
 
+*See [all repositories](https://github.com/Sayeed-titan?tab=repositories) for SQL case studies, MAUI apps, and more.*
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
+## 💻 Tech Stack
+
+**Languages:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend:** ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+**Backend:** ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases:** ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools:** ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=sayeed-titan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sayeed-titan&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeed-titan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=sayeed-titan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
