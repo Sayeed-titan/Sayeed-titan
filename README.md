@@ -19,6 +19,7 @@ I'm a .NET Full Stack Developer building end-to-end web applications with **ASP.
 - 📚 **Background:** Physics graduate, then transitioned into software through the IsDB-BISEW IT Scholarship .NET Development program — the analytical grounding shows up in how I approach data modeling and debugging.
 - 🚀 **Currently:** Shipping small full-stack tools and ERP prototypes, and writing SQL-heavy data analysis case studies (healthcare billing, hospital operations, e-commerce, HR attrition).
 - 🌱 **Exploring:** Clean Architecture patterns reusable across ADO.NET / MVC / Web API / .NET Core / MAUI, and design-system driven UI work.
+- 🔭 **Right now:** Building out ERP prototypes (Pharma Inventory, Hospital ERP) and reusable Master-Details patterns across .NET and MAUI.
 
 ## 🚀 Featured Projects
 
@@ -47,11 +48,17 @@ I'm a .NET Full Stack Developer building end-to-end web applications with **ASP.
 
 **Tools:** ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayeed-titan/Sayeed-titan/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sayeed-titan/Sayeed-titan/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sayeed-titan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sayeed-titan&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeed-titan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://raw.githubusercontent.com/Sayeed-titan/Sayeed-titan/main/github-metrics.svg)
+![](https://streak-stats.demolab.com/?user=sayeed-titan&theme=calm_pink&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
