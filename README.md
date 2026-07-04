@@ -66,6 +66,11 @@ I'm a .NET Full Stack Developer building end-to-end web applications with **ASP.
 ### ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
