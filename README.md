@@ -63,6 +63,11 @@ I'm a .NET Full Stack Developer building end-to-end web applications with **ASP.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ⏱️ Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sayeed-titan&color=blueviolet&style=flat)
 
