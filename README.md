@@ -68,11 +68,11 @@ I'm a .NET Full Stack Developer building end-to-end web applications with **ASP.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 hrs 39 mins        █████████▒░░░░░░░░░░░░░░░   36.69 %
-TypeScript   10 hrs 33 mins        ████████▒░░░░░░░░░░░░░░░░   33.25 %
-Markdown     3 hrs 1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Other        1 hr 50 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-XML          38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JavaScript   11 hrs 40 mins        ████████████▒░░░░░░░░░░░░   49.91 %
+TypeScript   3 hrs 7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+Markdown     2 hrs 17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Other        1 hr 56 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+XML          38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
